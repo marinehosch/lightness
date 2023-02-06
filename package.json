@@ -1,0 +1,28 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000l\u0000i\u0000g\u0000h\u0000t\u0000n\u0000e\u0000s\u0000s\u0000\r\u0000 \u0000",
+  "browserlist": "> 0.25%, not dead",
+  "source": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "color-convert": "^2.0.1",
+    "netlify": "^13.1.2",
+    "parcel": "^2.8.3"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinehosch/lightness.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marinehosch/lightness/issues"
+  },
+  "homepage": "https://github.com/marinehosch/lightness#readme"
+}
